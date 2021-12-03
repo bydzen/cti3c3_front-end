@@ -4,6 +4,7 @@ Pemrograman Web Course (CTI3C3-IT-43-03) designed fot Front-End Team Development
 <br>
 
 <img weight="220px" height="220px" src="https://github.com/bydzen/TubesMultiLinklist_ASD_DataBerobat/blob/master/Data%20Berobat/img/lottie1.gif">
+<img weight="220px" height="220px" src="https://lms.telkomuniversity.ac.id/pluginfile.php/1/theme_remui/logomini/1635822648/icon-bg-white.png">
 
 ## Progress Page Checklist 🧑‍💻
 - [X] Git for Versioning
