@@ -4,8 +4,8 @@ Pemrograman Web Course (CTI3C3-IT-43-03) designed fot Front-End Team Development
 <br>
 
 <div style="display: flex;">
-  <img weight="220px" height="220px" src="https://lms.telkomuniversity.ac.id/pluginfile.php/1/theme_remui/logomini/1635822648/icon-bg-white.png">
-  <img weight="220px" height="220px" src="https://telkomuniversity.ac.id/wp-content/uploads/2019/03/Logo-Telkom-University-png-3430x1174.png">
+  <img weight="220px" height="220px" src="https://lms.telkomuniversity.ac.id/pluginfile.php/1/theme_remui/logomini/1635822648/icon-bg-white.png" style="margin-right: 20px;">
+  <img weight="220px" height="220px" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Telkom_University_Logo.svg/1200px-Telkom_University_Logo.svg.png">
 </div>
 
 ## Progress Page Checklist 🧑‍💻
