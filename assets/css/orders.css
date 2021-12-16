@@ -1,0 +1,74 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    background-color: #22272B;
+    color: white;
+}
+
+nav {
+    padding: 0 290px;
+}
+
+.navbar {
+    padding-top: 20px;
+}
+
+.order {
+    margin-top: 70px;
+}
+
+table.table {
+    color: white;
+}
+
+table thead {
+    background-color: #FF8F66;
+}
+
+span.navbar-brand {
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 70px;
+    color: white;
+}
+
+nav.navbar {
+    background-color: #22272B;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+a.active {
+    color: #FF8F66;
+}
+
+.mainmenu a {
+    margin-right: 15px;
+}
+
+.mainmenu {
+    margin-right: 50px;
+}
+
+.accountcart a {
+    margin-right: 15px;
+}
+
+table.table {
+    margin-top: 25px;
+}
+
+h2.order {
+    color: #FF8F66;
+    font-weight: 600;
+}
+
+/* Only web page */
+@media only screen and (max-width: 1150px) {
+    body {
+        display: none;
+    }    
+}
