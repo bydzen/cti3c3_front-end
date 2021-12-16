@@ -13,8 +13,9 @@ Pemrograman Web Course (CTI3C3-IT-43-03) designed fot Front-End Team Development
 - [ ] About
 - [ ] Shop/Product
 - [ ] Account
-- [ ] Contact
-- [ ] Login/Register
+- [X] History Order
+- [X] Contact
+- [X] Login/Register
 
 ## Acknowledgments 📝
 * Level: (4/5) - Almost Crazy.
