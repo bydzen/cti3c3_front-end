@@ -17,6 +17,9 @@ Pemrograman Web Course (CTI3C3-IT-43-03) designed fot Front-End Team Development
 - [X] Contact
 - [X] Login/Register
 
+## Compatibility
+This front-end is developed for web app only (no mobile version).
+
 ## Acknowledgments 📝
 * Level: (4/5) - Almost Crazy.
 * This work is in progress.
