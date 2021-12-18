@@ -25,4 +25,4 @@ This front-end is developed for web app only (no mobile version).
 
 ## Acknowledgments 📝
 * Level: (4/5) - Almost Crazy.
-* This work is in progress.
+* This work is no longer in development (completed).
