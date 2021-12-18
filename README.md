@@ -7,7 +7,7 @@ Pemrograman Web Course (CTI3C3-IT-43-03) designed fot Front-End Team Development
   <img width="162px" src="https://telkomuniversity.ac.id/wp-content/uploads/2019/03/Logo-Telkom-University-png-3430x1174.png">
 </div>
 
-## Progress Page Checklist 🧑‍💻
+## Availability Page 🧑‍💻
 - [X] Git for Versioning
 - [ ] Home Page
 - [ ] About
