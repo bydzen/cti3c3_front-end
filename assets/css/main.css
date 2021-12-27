@@ -2,7 +2,7 @@ body, button {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    /* overflow: ; */
     color: white;
     letter-spacing: 2px;
 }
@@ -24,7 +24,6 @@ html a {
 
 .loginKiri {
     padding-top: 7%;
-    height: 100vh;
     background-color: #22272B;
     width: 50%;
 }
