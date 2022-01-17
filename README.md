@@ -19,7 +19,7 @@ Pemrograman Web Course (CTI3C3-IT-43-03) designed fot Front-End Team Development
 
 ## Compatibility ⚙️
 This front-end is developed for web app only (no mobile version).
-- [X] Desktop (Yes, down-to 1150px)
+- [X] Desktop (Yes, all across devices)
 - [ ] Tablet (No)
 - [ ] Mobile (No)
 
